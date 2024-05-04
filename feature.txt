@@ -1,0 +1,17 @@
+Como a comunidade continuou fazendo bom uso dos pontos fortes da Viper, ela acabou se tornando uma força dominante no meta e uma presença constante no cenário profissional. Com esta atualização, tentaremos consolidar fraquezas claras que essa Agente tem em comparação aos colegas, mas sem abandonar sua identidade única como híbrido de Controladora/Sentinela. A ideia é fazer quem joga com ela sentir que precisa se comprometer com os posicionamentos dela e gerenciar a duração mais curta das fumaças com a habilidade que ela tem de controlá-las.
+
+A redução no tempo total da fumaça junto à redução do Tempo de Recarga das reativações vai reduzir o tempo de contenção total dela e estimular os jogadores a melhorarem o gerenciamento de combustível. Aumentar o combustível mínimo para ativar as fumaças cria um período maior para os inimigos atacarem quando o recurso estiver totalmente esgotado.
+Deixar Nuvem Venenosa (Q) ser recuperada apenas em fases de compra faz com que seja necessário pensar melhor na posição da habilidade a cada rodada, além de consolidar grande influência que a Agente tem na área escolhida.
+Reduzir Veneno de Cobra (C) para uma única carga reduz a frequência com que Viper pode usar a habilidade para preencher lacunas enquanto está sem fumaça, além de aumentar a importância do gerenciamento de combustível dela. O aumento na duração garante que uma única carga de Veneno de Cobra (C) seja letal para todos os inimigos que ficarem o maior tempo possível na área de ação do ácido.
+Já falamos sobre isso nas redes sociais, mas vamos recapitular por aqui: na 7.09, implementamos acidentalmente algumas mudanças na quantidade de combustível da Viper. Visando transparência total, vocês verão três números em algumas das mudanças abaixo por conta desse acidente. Primeiro, temos o valor antes da 7.09, depois, temos o valor depois da 7.09 e, por fim, o valor da 8.08.
+
+Cortina Tóxica (E) e Nuvem Venenosa (Q)
+Reduzimos o tempo máximo de cada tipo de fumaça: 15s >>> 13,5s >>> 12s.
+Aumentamos o combustível mínimo necessário para ativar as fumaças: 20% >>> 30%.
+Reduzimos o tempo de recarga ao reativar fumaças após desativá-las: 8s >>> 5,5s >>> 5s.
+Nuvem Venenosa (Q)
+Agora só pode ser recolhida durante a Fase de Compra.
+Veneno de Cobra (C)
+Reduzimos a quantidade: 2 >>> 1.
+Aumentamos o preço: 200 >>> 300.
+Aumentamos a duração: 5,5s >>> 6,5s.
