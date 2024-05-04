@@ -15,3 +15,4 @@ Veneno de Cobra (C)
 Reduzimos a quantidade: 2 >>> 1.
 Aumentamos o preço: 200 >>> 300.
 Aumentamos a duração: 5,5s >>> 6,5s.
+Viper ainda é boa porém com suas grandes limitações devido ao grande nerf
